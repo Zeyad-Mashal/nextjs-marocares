@@ -1,11 +1,13 @@
 import Navbar from "./Navbar/Navbar";
-import Homepage from "./Home/Homepage";
+import BootstrapCarousel from "./carsoul/carsoul";
+import CardList from "./image card/imageList";
 
 export default function Home() {
   return (
     <main className="">
       <Navbar />
-      <Homepage />
+      <BootstrapCarousel />
+      <CardList />
     </main>
-  )
+  );
 }

@@ -1,0 +1,33 @@
+{
+    "items": {
+        "bootstrap": [{
+                "id": 1,
+                "title": "Photography",
+                "body": "Bootstrap Carousel Example",
+                "imageUrl": "https://cosmetis.com/media/weltpixel/owlcarouselslider/images/b/a/banner_en_pov_1.jpg",
+                "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+            },
+            {
+                "id": 2,
+                "title": "City Views",
+                "body": "Bootstrap Carousel Example",
+                "imageUrl": "https://cosmetis.com/media/weltpixel/owlcarouselslider/images/b/a/banner_cp_partywithyourlovedones_dez23_3__1.jpg",
+                "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+            },
+            {
+                "id": 3,
+                "title": "Wild Life",
+                "body": "Bootstrap Carousel Example",
+                "imageUrl": "https://cosmetis.com/media/weltpixel/owlcarouselslider/images/b/a/banner_cp_anti-agingcare_nov23_1__4.jpg",
+                "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+            },
+            {
+                "id": 4,
+                "title": "Foods and Culture",
+                "body": "Bootstrap Carousel Example",
+                "imageUrl": "https://cosmetis.com/media/weltpixel/owlcarouselslider/images/b/a/banner_cp_theidealgift_nov23_3__2.jpg",
+                "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+            }
+        ]
+    }
+}

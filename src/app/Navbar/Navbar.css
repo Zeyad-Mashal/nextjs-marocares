@@ -22,6 +22,10 @@
   font-size: 16px;
   font-weight: 600;
 }
+.header-top p {
+  margin-top: 10px;
+  margin-left: 20px;
+}
 .header-top-content span {
   color: #d11111;
 }
@@ -110,7 +114,7 @@
   color: #0701b8;
 }
 .navbar {
-  height: 10vh;
+  height: 11vh;
   background-color: #ccc;
   display: flex;
   justify-content: space-between;
@@ -132,15 +136,22 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 .menu-list > li:first-of-type {
   background-color: #6b9288;
-  padding: 20px;
+  padding: 21.5px;
   color: #fdfdfd;
+  top: -8px;
+  display: block;
 }
 .menu-list li:hover:not(:first-of-type) {
   background-color: #acb8df;
   padding: 10px 15px;
+}
+.menu-list a {
+  text-decoration: none;
+  color: #222;
 }
 .navbar .mega-menu {
   position: absolute;
